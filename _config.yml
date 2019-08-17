@@ -7,3 +7,4 @@ keywords: "fruit, apple, flower, gjc"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
