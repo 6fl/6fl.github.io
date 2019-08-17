@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: a big apple 关键字
+description: 苹果真好吃呀
+tag: fruit, apple, flower
+
+
+plugins:
+  - jekyll-sitemap
